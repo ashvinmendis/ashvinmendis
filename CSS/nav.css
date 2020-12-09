@@ -25,13 +25,13 @@ li a:hover {
   text-decoration: none;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 770px) {
       li a {
       display: block;
       border-radius: 5px;
       color: white;
       text-align: center;
-      padding: 14px 7px;
+      padding: 40px 7px;
       font-size: 17px;
     }
 
